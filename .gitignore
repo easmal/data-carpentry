@@ -1,0 +1,7 @@
+#do not track these
+
+data
+
+*.Rproj
+
+

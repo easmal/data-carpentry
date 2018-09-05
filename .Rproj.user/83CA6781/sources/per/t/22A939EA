@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536101474754.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22A939EA",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1536101474754,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6DF45F6C",
+        "caption" : "summarise_three",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=summarise_three&cache_key=6DF45F6C",
+        "displayedObservations" : "48",
+        "environment" : "",
+        "object" : "summarise_three",
+        "preview" : "0",
+        "totalObservations" : "48",
+        "variables" : "4"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
